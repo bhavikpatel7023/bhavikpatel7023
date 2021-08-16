@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on open source software that help our community. 
 - 📫 You can reach me on bhavikpatel7023@gmail.com
 
+![alt text](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bhavikpatel7023&show-other-skills=true)
 <!---
 bhavikpatel7023/bhavikpatel7023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
