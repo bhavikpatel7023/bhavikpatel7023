@@ -6,6 +6,9 @@
 
 ![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavikpatel7023&show_icons=true&hide_border=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ![alt text](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bhavikpatel7023&show-other-skills=true)
 <!---
