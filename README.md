@@ -29,13 +29,13 @@
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
