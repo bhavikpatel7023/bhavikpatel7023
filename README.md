@@ -29,13 +29,13 @@
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-.ssh                     4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
