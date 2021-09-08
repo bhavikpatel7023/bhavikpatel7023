@@ -7,13 +7,13 @@
 ![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavikpatel7023&show_icons=true&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21710%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21725%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 16 Contributions in the Year 2021
+> 🏆 17 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
