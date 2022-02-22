@@ -7,7 +7,9 @@
 ![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavikpatel7023&show_icons=true&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Thousand%20lines%20of%20code-blue)
 
@@ -40,7 +42,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/02/2022 05:06:27 UTC
+ Last Updated on 22/02/2022 08:11:13 UTC
 <!--END_SECTION:waka-->
 
 
