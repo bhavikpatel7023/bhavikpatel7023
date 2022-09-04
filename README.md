@@ -7,7 +7,7 @@
 ![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavikpatel7023&show_icons=true&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,24 +25,8 @@
  > 
 > 🔑 15 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 04/09/2022 07:07:10 UTC
+ Last Updated on 04/09/2022 08:12:17 UTC
 <!--END_SECTION:waka-->
 
 
